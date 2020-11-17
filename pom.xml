@@ -13,7 +13,7 @@
 	 <dependency>
 	    <groupId>com.github.RyanMcD99</groupId>
 	    <artifactId>SE3Assignment1</artifactId>
-	    <version>v4</version>
+	    <version>v5</version>
 	</dependency>
   </dependencies>
   <repositories>
